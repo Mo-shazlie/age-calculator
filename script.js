@@ -16,3 +16,4 @@ button.addEventListener("click", function () {
   let age = 2026 - theYear;
   result.textContent = `Your age is ${age}`;
 });
+console.log("");
